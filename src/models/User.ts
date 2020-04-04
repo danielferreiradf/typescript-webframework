@@ -1,3 +1,5 @@
+import axios from "axios";
+
 interface UserProps {
   name?: string;
   age?: number;
