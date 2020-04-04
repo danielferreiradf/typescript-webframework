@@ -1,0 +1,4 @@
+# FOLDERS
+.cache
+node_modules
+dist
